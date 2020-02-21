@@ -7,6 +7,10 @@
 
 using namespace std;
 
+int checkTest(int m) {
+
+}
+
 //判断输入的数字是否为素数
 //返回值0：非素数
 //返回值1：素数
